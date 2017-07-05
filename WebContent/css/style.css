@@ -1,0 +1,241 @@
+
+#para{
+  padding-top: 20px;
+  padding-left: 10px;
+  font-family: TimesNewRoman;
+  color: white;
+  font-size: 20px;
+
+}
+
+#jumbo{
+  background-color: #1D3C6B;
+  width: 1130px;
+  height: 80px;
+  border-bottom:2px solid #ddd;
+}
+
+#username{
+	background-color: #1D3C6B;
+	
+}
+
+#head{
+  font-size: 30px;
+}
+
+.navid{
+  padding-top: 5px;
+  padding-left: 1px;
+  background-color: #1D3C6B;
+  height: 30px;
+  width: 1130px;
+
+}
+
+ a{
+  border-right:2px solid #ddd;
+  padding-top: 8px;
+  padding-right: 10px;
+  padding-left: 10px;
+  line-height: 16px
+}
+
+#a{
+  border-right:2px solid #ddd;
+  padding-top: 8px;
+  padding-right: 10px;
+  padding-left: 10px;
+  
+}
+
+#link{
+  color: white;
+}
+
+.caroimage{
+  background-color: #1D3C6B;
+  height: 300px;
+  width: 1130px;
+}
+
+#homebody{
+  background-color: white;
+  padding-top: 10px;
+  width: 1130px;
+  height:650px;
+}
+#loginbody{
+  background-color: white;
+  padding-top: 10px;
+  width: 1130px;
+  height:300px;
+}
+
+#contactusbody{
+  background-color: white;
+  padding-top: 10px;
+  width: 1130px;
+  height:500px;
+
+}
+#accountbody{
+  background-color: white;
+  padding-top: 10px;
+  width: 1130px;
+  height:700px;
+}
+#payslipbody{
+  background-color: white;
+  padding-top: 10px;
+  width: 1130px;
+  height:700px;
+}
+#edet1{
+  border: 1px solid black;
+  height:150px;
+  width: 1068px;
+  padding-top: 10px;
+}
+#fw{
+  font-weight: normal;
+}
+#edet2{
+  width: 1068px;
+  height: 10px;
+}
+#edet3{
+  border: 1px solid black;
+  height:300px;
+  width: 1068px;
+  padding-top: 10px;
+}
+#hr{
+  border: 1px solid black;
+}
+#payhead{
+  font-size: 15px;
+  font-family: TimesNewRoman;
+  color: #1C478C;
+  align-content: center;
+}
+
+#table{
+  width: 1150px;
+  padding-left: 30px;
+  padding-right: 20px;
+  border-width: 3px;
+}
+#loginrowid{
+  background-color: #C9C7B7;
+  width: 1130px;
+  height: 30px;
+}
+#loginid{
+  padding-top: 10px;
+}
+
+#collog{
+  height: 20px;
+  color:red;
+}
+
+#loginfooterid{
+  background-color: white;
+  width: 1130px;
+  height: 30px;
+  border-top: 2px solid #ddd;
+  padding-left: 10px;
+}
+
+#containerfooterid{
+
+  padding-left: 10px;
+}
+
+#btn{
+  padding-top: 10px;
+}
+
+#lbtn{
+  background-color: #1D3C6B;
+  color: white;
+}
+
+#rbtn{
+  background-color: black;
+  color: white;
+}
+#duser{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+#users{
+  width: 250px;
+}
+
+#dname{
+  color: white;
+  padding-top: 20px;
+  padding-right: 100px;
+}
+
+.panel{
+  padding-bottom: 1px;
+}
+
+.labelname{
+  padding-top: 5px;
+}
+
+
+.bth{
+  padding-bottom: 1px;
+  font-size: 15px;
+  color: #1C478C;
+
+}
+
+hr.style4 {
+	border-top: 1px dotted #8c8b8b;
+  padding-top: 1px;
+}
+
+.card{
+  outline: 1px solid #ddd;
+  width: 800px;
+}
+
+#rbid{
+  padding-top: 20px;
+}
+
+.card-title{
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 12px;
+}
+.card-text{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.card-img-top{
+  width: 195px;
+  height: 100px;
+  padding-right:15px;
+  padding-top: 10px;
+}
+.card-text-footer{
+  padding-top: 1px;
+  padding-left: 10px;
+}
+
+#dfull{
+  border: 1px solid black;
+  height: 600px;
+  padding-right: 30px;
+  padding-top: 10px;
+
+}
+
+
